@@ -1,0 +1,13 @@
+name: test
+title: test
+username:
+account: mariap
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8748980
+bundleId: 7051042
+url: https://mariap.shinyapps.io/test/
+when: 1680667798.67051
+lastSyncTime: 1680667798.67052
+asMultiple: FALSE
+asStatic: FALSE

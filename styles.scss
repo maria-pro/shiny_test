@@ -1,0 +1,206 @@
+/* bootstrap components */
+
+/* Dont let the page get awkwardly wide on big screens */
+body > div {
+  max-width: 1200px;
+}
+
+/* Very top of page spans entire width and has theme changer on the left and
+   a source link on the right */
+#page-top {
+  height: auto;
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  padding: 0;
+  padding-top: 6PX;
+  position: relative;
+}
+
+#page-top > * {
+  position: absolute;
+}
+
+.source_link {
+  font-size: 0.9rem;
+  font-weight: lighter;
+}
+
+/*  */
+#current_theme {
+  padding: 0 0.5rem;
+}
+
+#current_theme .shiny-options-group {
+  /* Makes input sit next to the label */
+  display: inline;
+}
+
+/* Source link sits in upper right of page */
+#page-top > .source_link {
+  right: 0;
+  padding: 0 0.5rem;
+}
+/* Hide source link on mobile to avoid overlapping theme picker */
+@media all and (max-width: 768px) {
+  #page-top > .source_link { display: none;}
+}
+
+
+/* Make title nice and centered */
+#app-title > h2 {
+  text-align: center;
+  font-family: 'Righteous';
+}
+
+/* Top of page is a small grid of controls and info*/
+.select-panel {
+  margin: 1rem auto;
+  display: flex; /* helps vertically align stuff */
+}
+
+#header > div {
+  display: inline-block
+}
+
+/* Padding around city selector input to space out inputs evenly */
+#component-selector {
+  margin: 0 34px; /* 300 + 34 + 400 + 34 + 300 = 768 */
+}
+
+/* Makes the label for header inputs sit centered on top */
+#header > * > span {
+  display: block;
+  text-align: center;
+}
+
+@media all and (max-width: 768px) {
+   /* For small screens, stack buttons and search into single column */
+  #header {
+    width: 100%;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
+  #header > div {
+    display: block;
+    margin: 0.5rem 0;
+  }
+
+  #header > * > button,
+  .form-group.shiny-input-container {
+    display: block;
+    margin: 0 auto;
+  }
+
+  /* Hide source link at top of page to avoid overlapping theme picker */
+  #page-top > .source_link { display: none;}
+}
+
+
+/* Buttons are set at a fixed width and if content is too big it gets elipsed*/
+button { width: 200px; }
+button > div {
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+
+/* Make some wordy sections smaller */
+.small_text {
+  font-size: small;
+}
+
+/* Custom styles - Net Zero */
+
+
+.hero {
+    height: 13rem;
+    width: 100vw;
+    margin-left: calc(50% - 50vw);
+    padding-top: 5rem;
+    background-color: #2fa4e7;;
+
+    .container-fluid {
+      max-width: 1200px;
+    }
+
+    h1 {
+      color: white;
+    }
+}
+
+h1, h2, h3 {
+  font-weight: 300;
+}
+
+/* Output content */
+
+.net-zero {
+  .nav-tabs {
+    justify-content: space-between;
+    border-width: 0;
+    margin: 2rem auto 1rem;
+
+    /* tab appearance */
+    .nav-item {
+      flex-grow: 1;
+
+      /* tab text */
+      .nav-link {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        font-size: 1.2rem;
+        border-radius: 2rem;
+        color: var(--bs-nav-tabs-link-active-color);
+
+        &.active {
+          color: var(--bs-nav-link-color);
+          background-color: #2fa4e72e;
+          border-width: 0;
+        }
+      }
+
+      /* icon size */
+      i {
+        font-size: 3rem;
+      }
+    }
+  }
+
+  .tab-content {
+/*    padding: 1rem; */
+
+    /* all control inputs must be grouped inside this div */
+    .input-selector {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      align-items: baseline;
+
+      div {
+/*        flex-grow: 1;*/
+        padding-right: 0.5rem;
+        min-width: 30rem;
+      }
+
+      .shiny-options-group {
+        display: flex;
+        flex-direction: column;
+      }
+
+      .shiny-input-container {
+        width: auto !important;
+      }
+
+      .selectize-control {
+        margin-bottom: 0 !important;
+      }
+    }
+  }
+
+
+
+}

@@ -1,0 +1,13 @@
+name: NetZero
+title: NetZero
+username:
+account: mariap
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8749190
+bundleId: 7074410
+url: https://mariap.shinyapps.io/NetZero/
+when: 1681198599.92406
+lastSyncTime: 1681198599.92407
+asMultiple: FALSE
+asStatic: FALSE

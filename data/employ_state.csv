@@ -1,0 +1,497 @@
+var,state,year,value
+New South Wales,base,2020,4020.0718
+New South Wales,base,2021,3969.7511
+New South Wales,base,2022,4051.2803
+New South Wales,base,2023,4080.626
+New South Wales,base,2024,4170.0511
+New South Wales,base,2025,4252.4632
+New South Wales,base,2026,4342.212
+New South Wales,base,2027,4418.1264
+New South Wales,base,2028,4496.3658
+New South Wales,base,2029,4574.8232
+New South Wales,base,2030,4653.3889
+New South Wales,base,2031,4731.999
+New South Wales,base,2032,4810.618
+New South Wales,base,2033,4889.2078
+New South Wales,base,2034,4967.7273
+New South Wales,base,2035,5046.1713
+New South Wales,base,2036,5124.5422
+New South Wales,base,2037,5202.8602
+New South Wales,base,2038,5281.2223
+New South Wales,base,2039,5359.6519
+New South Wales,base,2040,5438.1644
+New South Wales,base,2041,5516.7768
+New South Wales,base,2042,5595.5131
+New South Wales,base,2043,5674.3884
+New South Wales,base,2044,5753.4245
+New South Wales,base,2045,5832.6503
+New South Wales,base,2046,5912.092
+New South Wales,base,2047,5991.7831
+New South Wales,base,2048,6071.7718
+New South Wales,base,2049,6152.1087
+New South Wales,base,2050,6232.8413
+Victoria,base,2020,3284.2216
+Victoria,base,2021,3220.6016
+Victoria,base,2022,3285.1725
+Victoria,base,2023,3313.7524
+Victoria,base,2024,3388.4526
+Victoria,base,2025,3467.2315
+Victoria,base,2026,3540.8823
+Victoria,base,2027,3607.1321
+Victoria,base,2028,3674.8387
+Victoria,base,2029,3742.8569
+Victoria,base,2030,3811.0512
+Victoria,base,2031,3879.378
+Victoria,base,2032,3947.8113
+Victoria,base,2033,4016.3258
+Victoria,base,2034,4084.8942
+Victoria,base,2035,4153.5145
+Victoria,base,2036,4222.1914
+Victoria,base,2037,4290.9434
+Victoria,base,2038,4359.8573
+Victoria,base,2039,4428.952
+Victoria,base,2040,4498.2408
+Victoria,base,2041,4567.738
+Victoria,base,2042,4637.4638
+Victoria,base,2043,4707.4299
+Victoria,base,2044,4777.654
+Victoria,base,2045,4848.1604
+Victoria,base,2046,4918.97
+Victoria,base,2047,4990.1103
+Victoria,base,2048,5061.6219
+Victoria,base,2049,5133.5486
+Victoria,base,2050,5205.9316
+Queensland,base,2020,2496.348
+Queensland,base,2021,2454.7988
+Queensland,base,2022,2475.4921
+Queensland,base,2023,2499.9044
+Queensland,base,2024,2545.058
+Queensland,base,2025,2579.4243
+Queensland,base,2026,2625.3309
+Queensland,base,2027,2667.736
+Queensland,base,2028,2710.8276
+Queensland,base,2029,2753.9975
+Queensland,base,2030,2797.107
+Queensland,base,2031,2840.1086
+Queensland,base,2032,2882.9679
+Queensland,base,2033,2925.6559
+Queensland,base,2034,2968.1427
+Queensland,base,2035,3010.4196
+Queensland,base,2036,3052.4826
+Queensland,base,2037,3094.3386
+Queensland,base,2038,3136.0403
+Queensland,base,2039,3177.5987
+Queensland,base,2040,3219.0194
+Queensland,base,2041,3260.3096
+Queensland,base,2042,3301.482
+Queensland,base,2043,3342.5442
+Queensland,base,2044,3383.5091
+Queensland,base,2045,3424.3953
+Queensland,base,2046,3465.2189
+Queensland,base,2047,3506.0014
+Queensland,base,2048,3546.7737
+Queensland,base,2049,3587.5686
+Queensland,base,2050,3628.4163
+South Australia,base,2020,856.773
+South Australia,base,2021,843.1981
+South Australia,base,2022,852.2899
+South Australia,base,2023,858.9398
+South Australia,base,2024,870.3008
+South Australia,base,2025,879.9827
+South Australia,base,2026,894.4568
+South Australia,base,2027,909.0839
+South Australia,base,2028,923.9038
+South Australia,base,2029,938.8757
+South Australia,base,2030,953.9282
+South Australia,base,2031,969.0397
+South Australia,base,2032,984.193
+South Australia,base,2033,999.374
+South Australia,base,2034,1014.57
+South Australia,base,2035,1029.775
+South Australia,base,2036,1044.9862
+South Australia,base,2037,1060.2055
+South Australia,base,2038,1075.4497
+South Australia,base,2039,1090.7221
+South Australia,base,2040,1106.0246
+South Australia,base,2041,1121.3597
+South Australia,base,2042,1136.7318
+South Australia,base,2043,1152.1436
+South Australia,base,2044,1167.5994
+South Australia,base,2045,1183.105
+South Australia,base,2046,1198.6659
+South Australia,base,2047,1214.2887
+South Australia,base,2048,1229.9831
+South Australia,base,2049,1245.7594
+South Australia,base,2050,1261.6274
+Western Australia,base,2020,1461.0005
+Western Australia,base,2021,1409.2073
+Western Australia,base,2022,1397.9875
+Western Australia,base,2023,1435.3388
+Western Australia,base,2024,1451.9843
+Western Australia,base,2025,1498.8917
+Western Australia,base,2026,1501.3968
+Western Australia,base,2027,1529.2761
+Western Australia,base,2028,1553.7807
+Western Australia,base,2029,1578.7871
+Western Australia,base,2030,1603.9019
+Western Australia,base,2031,1629.1465
+Western Australia,base,2032,1654.5155
+Western Australia,base,2033,1680.0009
+Western Australia,base,2034,1705.5936
+Western Australia,base,2035,1731.294
+Western Australia,base,2036,1757.1047
+Western Australia,base,2037,1783.0318
+Western Australia,base,2038,1809.1032
+Western Australia,base,2039,1835.3277
+Western Australia,base,2040,1861.7105
+Western Australia,base,2041,1888.2579
+Western Australia,base,2042,1914.9787
+Western Australia,base,2043,1941.8793
+Western Australia,base,2044,1968.9688
+Western Australia,base,2045,1996.2584
+Western Australia,base,2046,2023.7585
+Western Australia,base,2047,2051.4825
+Western Australia,base,2048,2079.4472
+Western Australia,base,2049,2107.6708
+Western Australia,base,2050,2136.1707
+Tasmania,base,2020,250.9003
+Tasmania,base,2021,242.9557
+Tasmania,base,2022,245.4214
+Tasmania,base,2023,247.8475
+Tasmania,base,2024,250.3618
+Tasmania,base,2025,253.4408
+Tasmania,base,2026,257.1711
+Tasmania,base,2027,261.3738
+Tasmania,base,2028,265.5328
+Tasmania,base,2029,269.7194
+Tasmania,base,2030,273.9115
+Tasmania,base,2031,278.1082
+Tasmania,base,2032,282.3076
+Tasmania,base,2033,286.5082
+Tasmania,base,2034,290.7086
+Tasmania,base,2035,294.9089
+Tasmania,base,2036,299.1095
+Tasmania,base,2037,303.3134
+Tasmania,base,2038,307.5274
+Tasmania,base,2039,311.7534
+Tasmania,base,2040,315.9927
+Tasmania,base,2041,320.2466
+Tasmania,base,2042,324.5173
+Tasmania,base,2043,328.806
+Tasmania,base,2044,333.1147
+Tasmania,base,2045,337.4461
+Tasmania,base,2046,341.8025
+Tasmania,base,2047,346.1866
+Tasmania,base,2048,350.6023
+Tasmania,base,2049,355.0535
+Tasmania,base,2050,359.5438
+Northern Territory,base,2020,168.3279
+Northern Territory,base,2021,186.0033
+Northern Territory,base,2022,182.4314
+Northern Territory,base,2023,181.259
+Northern Territory,base,2024,180.6379
+Northern Territory,base,2025,178.7177
+Northern Territory,base,2026,179.8547
+Northern Territory,base,2027,181.2558
+Northern Territory,base,2028,182.8038
+Northern Territory,base,2029,184.4656
+Northern Territory,base,2030,186.198
+Northern Territory,base,2031,187.9432
+Northern Territory,base,2032,189.6563
+Northern Territory,base,2033,191.3589
+Northern Territory,base,2034,193.0782
+Northern Territory,base,2035,194.8179
+Northern Territory,base,2036,196.5771
+Northern Territory,base,2037,198.3549
+Northern Territory,base,2038,200.1526
+Northern Territory,base,2039,201.9701
+Northern Territory,base,2040,203.8076
+Northern Territory,base,2041,205.6652
+Northern Territory,base,2042,207.5432
+Northern Territory,base,2043,209.4418
+Northern Territory,base,2044,211.3616
+Northern Territory,base,2045,213.3034
+Northern Territory,base,2046,215.2677
+Northern Territory,base,2047,217.2555
+Northern Territory,base,2048,219.2678
+Northern Territory,base,2049,221.3059
+Northern Territory,base,2050,223.3709
+Australian Capital Territory,base,2020,250.883
+Australian Capital Territory,base,2021,268.7629
+Australian Capital Territory,base,2022,258.5145
+Australian Capital Territory,base,2023,257.7195
+Australian Capital Territory,base,2024,258.6416
+Australian Capital Territory,base,2025,251.3437
+Australian Capital Territory,base,2026,255.4604
+Australian Capital Territory,base,2027,259.5687
+Australian Capital Territory,base,2028,263.6856
+Australian Capital Territory,base,2029,267.7989
+Australian Capital Territory,base,2030,271.8957
+Australian Capital Territory,base,2031,275.9754
+Australian Capital Territory,base,2032,280.0386
+Australian Capital Territory,base,2033,284.0854
+Australian Capital Territory,base,2034,288.1153
+Australian Capital Territory,base,2035,292.1294
+Australian Capital Territory,base,2036,296.1291
+Australian Capital Territory,base,2037,300.1158
+Australian Capital Territory,base,2038,304.0942
+Australian Capital Territory,base,2039,308.0658
+Australian Capital Territory,base,2040,312.0315
+Australian Capital Territory,base,2041,315.992
+Australian Capital Territory,base,2042,319.9483
+Australian Capital Territory,base,2043,323.9008
+Australian Capital Territory,base,2044,327.8501
+Australian Capital Territory,base,2045,331.7973
+Australian Capital Territory,base,2046,335.7431
+Australian Capital Territory,base,2047,339.6887
+Australian Capital Territory,base,2048,343.6359
+Australian Capital Territory,base,2049,347.5867
+Australian Capital Territory,base,2050,351.543
+New South Wales,zero,2020,4020.0803
+New South Wales,zero,2021,3961.1338
+New South Wales,zero,2022,4048.612
+New South Wales,zero,2023,4081.1852
+New South Wales,zero,2024,4173.228
+New South Wales,zero,2025,4258.5052
+New South Wales,zero,2026,4348.3228
+New South Wales,zero,2027,4424.8328
+New South Wales,zero,2028,4503.2687
+New South Wales,zero,2029,4581.8169
+New South Wales,zero,2030,4660.5105
+New South Wales,zero,2031,4739.3305
+New South Wales,zero,2032,4818.2737
+New South Wales,zero,2033,4897.3135
+New South Wales,zero,2034,4976.4163
+New South Wales,zero,2035,5055.5593
+New South Wales,zero,2036,5134.7473
+New South Wales,zero,2037,5213.9894
+New South Wales,zero,2038,5293.3785
+New South Wales,zero,2039,5372.9308
+New South Wales,zero,2040,5454.3427
+New South Wales,zero,2041,5533.3428
+New South Wales,zero,2042,5613.7763
+New South Wales,zero,2043,5695.1756
+New South Wales,zero,2044,5777.32
+New South Wales,zero,2045,5860.1103
+New South Wales,zero,2046,5943.5047
+New South Wales,zero,2047,6027.5582
+New South Wales,zero,2048,6112.33
+New South Wales,zero,2049,6197.908
+New South Wales,zero,2050,6284.3829
+Victoria,zero,2020,3284.2295
+Victoria,zero,2021,3215.3099
+Victoria,zero,2022,3285.8568
+Victoria,zero,2023,3318.4059
+Victoria,zero,2024,3397.5943
+Victoria,zero,2025,3480.8683
+Victoria,zero,2026,3556.3146
+Victoria,zero,2027,3624.7684
+Victoria,zero,2028,3694.3569
+Victoria,zero,2029,3764.0181
+Victoria,zero,2030,3833.6912
+Victoria,zero,2031,3903.3884
+Victoria,zero,2032,3973.1253
+Victoria,zero,2033,4042.9001
+Victoria,zero,2034,4112.7009
+Victoria,zero,2035,4182.5282
+Victoria,zero,2036,4252.3993
+Victoria,zero,2037,4322.3335
+Victoria,zero,2038,4392.4216
+Victoria,zero,2039,4462.6918
+Victoria,zero,2040,4534.4153
+Victoria,zero,2041,4603.6694
+Victoria,zero,2042,4674.121
+Victoria,zero,2043,4745.3641
+Victoria,zero,2044,4817.1776
+Victoria,zero,2045,4889.4709
+Victoria,zero,2046,4962.2108
+Victoria,zero,2047,5035.4206
+Victoria,zero,2048,5109.1473
+Victoria,zero,2049,5183.4681
+Victoria,zero,2050,5258.4596
+Queensland,zero,2020,2496.3564
+Queensland,zero,2021,2443.1119
+Queensland,zero,2022,2462.9708
+Queensland,zero,2023,2482.417
+Queensland,zero,2024,2527.1282
+Queensland,zero,2025,2559.317
+Queensland,zero,2026,2601.7127
+Queensland,zero,2027,2640.7977
+Queensland,zero,2028,2680.297
+Queensland,zero,2029,2719.7591
+Queensland,zero,2030,2759.0726
+Queensland,zero,2031,2798.2134
+Queensland,zero,2032,2837.1614
+Queensland,zero,2033,2875.8917
+Queensland,zero,2034,2914.3752
+Queensland,zero,2035,2952.5954
+Queensland,zero,2036,2990.5485
+Queensland,zero,2037,3028.2337
+Queensland,zero,2038,3065.7012
+Queensland,zero,2039,3102.9589
+Queensland,zero,2040,3140.821
+Queensland,zero,2041,3176.7936
+Queensland,zero,2042,3212.988
+Queensland,zero,2043,3249.1474
+Queensland,zero,2044,3285.0879
+Queensland,zero,2045,3320.7569
+Queensland,zero,2046,3356.1414
+Queensland,zero,2047,3391.2074
+Queensland,zero,2048,3425.9566
+Queensland,zero,2049,3460.4046
+Queensland,zero,2050,3494.56
+South Australia,zero,2020,856.7809
+South Australia,zero,2021,839.586
+South Australia,zero,2022,850.0318
+South Australia,zero,2023,857.4475
+South Australia,zero,2024,871.207
+South Australia,zero,2025,883.2814
+South Australia,zero,2026,899.6887
+South Australia,zero,2027,916.5775
+South Australia,zero,2028,933.6959
+South Australia,zero,2029,950.7515
+South Australia,zero,2030,967.6895
+South Australia,zero,2031,984.5132
+South Australia,zero,2032,1001.2297
+South Australia,zero,2033,1017.8446
+South Australia,zero,2034,1034.3621
+South Australia,zero,2035,1050.7895
+South Australia,zero,2036,1067.1385
+South Australia,zero,2037,1083.421
+South Australia,zero,2038,1099.6649
+South Australia,zero,2039,1115.9088
+South Australia,zero,2040,1134.1202
+South Australia,zero,2041,1149.6342
+South Australia,zero,2042,1165.3087
+South Australia,zero,2043,1181.0655
+South Australia,zero,2044,1196.833
+South Australia,zero,2045,1212.5915
+South Australia,zero,2046,1228.3338
+South Australia,zero,2047,1244.0516
+South Australia,zero,2048,1259.7497
+South Australia,zero,2049,1275.4404
+South Australia,zero,2050,1291.1345
+Western Australia,zero,2020,1461.0093
+Western Australia,zero,2021,1395.0836
+Western Australia,zero,2022,1384.1547
+Western Australia,zero,2023,1417.5558
+Western Australia,zero,2024,1437.6206
+Western Australia,zero,2025,1484.6957
+Western Australia,zero,2026,1486.5805
+Western Australia,zero,2027,1513.5449
+Western Australia,zero,2028,1537.2213
+Western Australia,zero,2029,1561.4072
+Western Australia,zero,2030,1585.7
+Western Australia,zero,2031,1610.1348
+Western Australia,zero,2032,1634.7195
+Western Australia,zero,2033,1659.4605
+Western Australia,zero,2034,1684.3552
+Western Australia,zero,2035,1709.4014
+Western Australia,zero,2036,1734.6081
+Western Australia,zero,2037,1759.9801
+Western Australia,zero,2038,1785.5509
+Western Australia,zero,2039,1811.342
+Western Australia,zero,2040,1838.652
+Western Australia,zero,2041,1863.8213
+Western Australia,zero,2042,1889.5483
+Western Australia,zero,2043,1915.6513
+Western Australia,zero,2044,1941.991
+Western Australia,zero,2045,1968.5339
+Western Australia,zero,2046,1995.2696
+Western Australia,zero,2047,2022.1724
+Western Australia,zero,2048,2049.2447
+Western Australia,zero,2049,2076.4961
+Western Australia,zero,2050,2103.9411
+Tasmania,zero,2020,250.9081
+Tasmania,zero,2021,241.3618
+Tasmania,zero,2022,244.6093
+Tasmania,zero,2023,247.1627
+Tasmania,zero,2024,250.7723
+Tasmania,zero,2025,254.7452
+Tasmania,zero,2026,259.0039
+Tasmania,zero,2027,263.7846
+Tasmania,zero,2028,268.5211
+Tasmania,zero,2029,273.2564
+Tasmania,zero,2030,277.9851
+Tasmania,zero,2031,282.7125
+Tasmania,zero,2032,287.4421
+Tasmania,zero,2033,292.1767
+Tasmania,zero,2034,296.9182
+Tasmania,zero,2035,301.6676
+Tasmania,zero,2036,306.4278
+Tasmania,zero,2037,311.2034
+Tasmania,zero,2038,316.0031
+Tasmania,zero,2039,320.835
+Tasmania,zero,2040,326.1177
+Tasmania,zero,2041,330.8103
+Tasmania,zero,2042,335.6004
+Tasmania,zero,2043,340.4527
+Tasmania,zero,2044,345.3325
+Tasmania,zero,2045,350.2301
+Tasmania,zero,2046,355.1384
+Tasmania,zero,2047,360.0426
+Tasmania,zero,2048,364.9348
+Tasmania,zero,2049,369.8076
+Tasmania,zero,2050,374.6529
+Northern Territory,zero,2020,168.3383
+Northern Territory,zero,2021,185.6847
+Northern Territory,zero,2022,182.7102
+Northern Territory,zero,2023,181.8957
+Northern Territory,zero,2024,181.2036
+Northern Territory,zero,2025,179.2138
+Northern Territory,zero,2026,180.2838
+Northern Territory,zero,2027,181.6964
+Northern Territory,zero,2028,183.2519
+Northern Territory,zero,2029,184.9098
+Northern Territory,zero,2030,186.6347
+Northern Territory,zero,2031,188.3951
+Northern Territory,zero,2032,190.1488
+Northern Territory,zero,2033,191.875
+Northern Territory,zero,2034,193.5923
+Northern Territory,zero,2035,195.321
+Northern Territory,zero,2036,197.0658
+Northern Territory,zero,2037,198.8276
+Northern Territory,zero,2038,200.6083
+Northern Territory,zero,2039,202.409
+Northern Territory,zero,2040,204.1985
+Northern Territory,zero,2041,206.0181
+Northern Territory,zero,2042,207.8258
+Northern Territory,zero,2043,209.6244
+Northern Territory,zero,2044,211.4151
+Northern Territory,zero,2045,213.2008
+Northern Territory,zero,2046,214.9837
+Northern Territory,zero,2047,216.7595
+Northern Territory,zero,2048,218.5276
+Northern Territory,zero,2049,220.2879
+Northern Territory,zero,2050,222.0394
+Australian Capital Territory,zero,2020,250.8909
+Australian Capital Territory,zero,2021,269.1659
+Australian Capital Territory,zero,2022,258.7351
+Australian Capital Territory,zero,2023,257.9156
+Australian Capital Territory,zero,2024,258.715
+Australian Capital Territory,zero,2025,251.481
+Australian Capital Territory,zero,2026,255.6408
+Australian Capital Territory,zero,2027,259.8583
+Australian Capital Territory,zero,2028,264.062
+Australian Capital Territory,zero,2029,268.2462
+Australian Capital Territory,zero,2030,272.4
+Australian Capital Territory,zero,2031,276.5242
+Australian Capital Territory,zero,2032,280.6217
+Australian Capital Territory,zero,2033,284.6932
+Australian Capital Territory,zero,2034,288.7386
+Australian Capital Territory,zero,2035,292.7581
+Australian Capital Territory,zero,2036,296.7528
+Australian Capital Territory,zero,2037,300.7235
+Australian Capital Territory,zero,2038,304.6745
+Australian Capital Territory,zero,2039,308.6085
+Australian Capital Territory,zero,2040,312.7428
+Australian Capital Territory,zero,2041,316.5491
+Australian Capital Territory,zero,2042,320.3813
+Australian Capital Territory,zero,2043,324.2212
+Australian Capital Territory,zero,2044,328.0572
+Australian Capital Territory,zero,2045,331.883
+Australian Capital Territory,zero,2046,335.6953
+Australian Capital Territory,zero,2047,339.4947
+Australian Capital Territory,zero,2048,343.283
+Australian Capital Territory,zero,2049,347.0639
+Australian Capital Territory,zero,2050,350.8428
